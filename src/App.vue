@@ -1,6 +1,7 @@
 <template>
   <v-app dark>
       <v-content>
+        Сев хуй соси
       <HelloWorld/>
       <Login/>
     </v-content>
