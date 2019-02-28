@@ -1,7 +1,9 @@
 <template>
   <v-app dark>
       <v-content>
-        Сев не хуй соси
+            <center>
+      <v-btn color="red" @click="reg">Соснуть хуй</v-btn>
+    </center>
       <HelloWorld/>
       <Login/>
     </v-content>
